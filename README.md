@@ -13,5 +13,5 @@ chm0d +x poison.sh
 ## Cenário 
 ![Captura_de_Tela_15](https://github.com/user-attachments/assets/6ed4a99e-dad3-444a-8ef5-09bf1bfe7179)
 
-
+nesse cenário vemos a ferramenta sendo baixada e nele, executei em bash sem dar permissão
 
